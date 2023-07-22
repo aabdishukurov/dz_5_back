@@ -1,2 +1,2 @@
-from game_logic import play 
+from play_kazinO import play 
 play()
